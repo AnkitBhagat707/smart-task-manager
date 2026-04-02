@@ -32,3 +32,6 @@ npm run dev
 
 ## AI Usage
 Used AI for debugging and structuring. All code reviewed manually.
+
+## walkthrough video LINK
+https://drive.google.com/file/d/1EtS7cBNqmFdUgnUaoBZcwW34LEpgyzbd/view?usp=sharing
